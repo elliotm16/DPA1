@@ -1,0 +1,40 @@
+\\bassstr\pupilhome$\00morgane\documents\visual studio 2010\Projects\DPA_EZM\DPA_EZM\bin\Debug\DPA_EZM.exe
+\\bassstr\pupilhome$\00morgane\documents\visual studio 2010\Projects\DPA_EZM\DPA_EZM\bin\Debug\DPA_EZM.pdb
+\\bassstr\pupilhome$\00morgane\documents\visual studio 2010\Projects\DPA_EZM\DPA_EZM\bin\Debug\DPA_EZM.xml
+\\bassstr\pupilhome$\00morgane\documents\visual studio 2010\Projects\DPA_EZM\DPA_EZM\obj\x86\Debug\DPA_EZM.Form1.resources
+\\bassstr\pupilhome$\00morgane\documents\visual studio 2010\Projects\DPA_EZM\DPA_EZM\obj\x86\Debug\DPA_EZM.Resources.resources
+\\bassstr\pupilhome$\00morgane\documents\visual studio 2010\Projects\DPA_EZM\DPA_EZM\obj\x86\Debug\DPA_EZM.vbproj.GenerateResource.Cache
+\\bassstr\pupilhome$\00morgane\documents\visual studio 2010\Projects\DPA_EZM\DPA_EZM\obj\x86\Debug\DPA_EZM.exe
+\\bassstr\pupilhome$\00morgane\documents\visual studio 2010\Projects\DPA_EZM\DPA_EZM\obj\x86\Debug\DPA_EZM.xml
+\\bassstr\pupilhome$\00morgane\documents\visual studio 2010\Projects\DPA_EZM\DPA_EZM\obj\x86\Debug\DPA_EZM.pdb
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.exe
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.xml
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.pdb
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\bin\Debug\DPA_EZM.exe
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\bin\Debug\DPA_EZM.pdb
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\bin\Debug\DPA_EZM.xml
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.Form1.resources
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.Form2.resources
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.Resources.resources
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.vbproj.GenerateResource.Cache
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.Menu.resources
+C:\Users\Elliot\Desktop\DPA_EZM-master\DPA_EZM (2)\DPA_EZM\bin\Debug\DPA_EZM.exe.manifest
+C:\Users\Elliot\Desktop\DPA_EZM-master\DPA_EZM (2)\DPA_EZM\bin\Debug\DPA_EZM.application
+C:\Users\Elliot\Desktop\DPA_EZM-master\DPA_EZM (2)\DPA_EZM\bin\Debug\DPA_EZM.exe
+C:\Users\Elliot\Desktop\DPA_EZM-master\DPA_EZM (2)\DPA_EZM\bin\Debug\DPA_EZM.pdb
+C:\Users\Elliot\Desktop\DPA_EZM-master\DPA_EZM (2)\DPA_EZM\bin\Debug\DPA_EZM.xml
+C:\Users\Elliot\Desktop\DPA_EZM-master\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.Form1.resources
+C:\Users\Elliot\Desktop\DPA_EZM-master\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.Form2.resources
+C:\Users\Elliot\Desktop\DPA_EZM-master\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.Menu.resources
+C:\Users\Elliot\Desktop\DPA_EZM-master\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.Resources.resources
+C:\Users\Elliot\Desktop\DPA_EZM-master\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.vbproj.GenerateResource.Cache
+C:\Users\Elliot\Desktop\DPA_EZM-master\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.exe.manifest
+C:\Users\Elliot\Desktop\DPA_EZM-master\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.application
+C:\Users\Elliot\Desktop\DPA_EZM-master\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.exe
+C:\Users\Elliot\Desktop\DPA_EZM-master\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.xml
+C:\Users\Elliot\Desktop\DPA_EZM-master\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.pdb
+C:\Users\Elliot\Desktop\DPA_EZM-master\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.Form3.resources
+C:\Users\Elliot\Desktop\DPA_EZM-master\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.Form4.resources
+C:\Users\Elliot\Desktop\DPA_EZM-master\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.Form5.resources
+C:\Users\Elliot\Desktop\DPA_EZM-master\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.Form6.resources
+C:\Users\Elliot\Desktop\DPA_EZM-master\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.Form7.resources

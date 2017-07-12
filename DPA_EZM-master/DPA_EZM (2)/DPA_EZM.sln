@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DPA_EZM", "DPA_EZM\DPA_EZM.vbproj", "{13D9CF29-A2DB-4D07-AF68-1F3DEB40DE20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D9CF29-A2DB-4D07-AF68-1F3DEB40DE20}.Debug|x86.ActiveCfg = Debug|x86
+		{13D9CF29-A2DB-4D07-AF68-1F3DEB40DE20}.Debug|x86.Build.0 = Debug|x86
+		{13D9CF29-A2DB-4D07-AF68-1F3DEB40DE20}.Release|x86.ActiveCfg = Release|x86
+		{13D9CF29-A2DB-4D07-AF68-1F3DEB40DE20}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

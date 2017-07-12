@@ -1,0 +1,18 @@
+001Blue Pen                00.2003001503013/01/12True
+002Red Pen                 00.3002001002013/01/12True
+003Black Pen               00.2004002004013/01/12True
+004Rubber                  00.4001501001513/01/12True
+005Pencil                  00.2505002505013/01/12True
+006Ruler                   00.1904002004013/01/12True
+007Note Book               00.4905003005013/01/12True
+008Pencil Sharpener        00.1501501001513/01/12True
+009Folder                  00.2205002505013/01/12True
+010Ring Binder             01.2501000501013/01/12True
+011Wallet                  00.4503502003513/01/12True
+012Compasses               01.0501000501013/01/12True
+013Protractor              00.3002001502013/01/12True
+014Set Square              00.2001000501013/01/12True
+015Highlighter Pen         00.4502501502513/01/12True
+016Pocket Calculator       07.5001000501013/01/12True
+017Lined Paper             00.6005003005013/01/12True
+018Plain Paper             00.6002501502513/01/12True
